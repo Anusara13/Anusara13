@@ -1,55 +1,81 @@
 <h1 align="center">Hi 👋, I'm Anusara Umadi</h1>
+
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=IIT+Student;Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=IIT+Student;Web+Developer;Always+learning+new+things&center=true&width=380&height=45">
 </p>
-<hr/>
- <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="170px">
+</p>
+
+---
+
+### 👩‍💻 About Me
+<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+
+- 🎓 Undergraduate at **Uva Wellassa University**
+- 🌱 Currently learning **Information Technology (IIT)**
+- 💻 Interested in **Web Development**
+- 📫 Reach me at: **anusaraumadi@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/anusara-umadi" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="60" style="display:inline-block;"/>
+  </a>
+  
+  <a href="https://facebook.com/anusaraumadi" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="60" style="display:inline-block; margin: 0 15px;"/>
+  </a>
+  
+  <a href="https://instagram.com/umadi03" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="60" style="display:inline-block;"/>
+  </a>
+</p>
+
+# 🛠️ Languages & Tools
+
+<div align="center">
+
+<!-- Frontend -->
+<h3>Frontend Development</h3>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="60px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="60px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="60px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="60px">
 <br><br>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
-- 🌱 I’m currently learning **IIT**
-- I'm an undergraduate at **Uva Wellassa University**
-- 📫 How to reach me **anusaraumadi@gmail.com**
+<!-- Programming Languages -->
+<h3>Programming Languages</h3>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="65px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="65px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="65px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="65px">
+<br><br>
 
-  <br><br>
-<hr/>
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anusara umadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anusara umadi" height="30" width="40" /></a>
-<a href="https://fb.com/anusara umadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anusara umadi" height="30" width="40" /></a>
-<a href="https://instagram.com/umadi_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umadi_03" height="30" width="40" /></a>
-</p>
-<hr/>
-<h3 align="center">🛠️ Languages and Tools</h3>
+<!-- Databases -->
+<h3>Databases</h3>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="65px">
+<img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/microsoftSQL.svg" width="65px">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" width="65px">
+<br><br>
 
+<!-- Design + Tools -->
+<h3>Design & Tools</h3>
+<img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" width="65px">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" width="65px">
+<img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Linux-Light.svg" width="65px">
+
+</div>
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anusara13&theme=radical" />
 </p>
 
-  <br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anusara13&theme=radical)](https://git.io/streak-stats) 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
